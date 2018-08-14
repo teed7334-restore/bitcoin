@@ -6,7 +6,8 @@
 2. 進入/dev_env資料夾
 3. ./bitcoin.sh
 4. cd /app
-5. node server.js
+5. npm install [參考需安裝的套件]
+6. node server.js
 
 ## 需安裝的套件
 1. bitcore-lib
